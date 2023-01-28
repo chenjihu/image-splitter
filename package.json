@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["split image","split","image to chunks","image splitter"],
-  "author": "Achilles Moraites",
+  "author": "Jihu Chen",
   "license": "MIT",
   "dependencies": {
     "jimp": "^0.16.2"
