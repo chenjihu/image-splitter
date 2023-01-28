@@ -1,6 +1,6 @@
 # split-images-shadow
 
-> This is one fork from split-images,  and I upgrade the dependency jimp from 0.6 to 0.16, which have different result when the image has rotation infomation.
+> This is one fork and upgrade from "split-images",  and I upgrade the dependency jimp from 0.6 to 0.16, which have different result when the image has rotation infomation.
 
 ## What is it
 
