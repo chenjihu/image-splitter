@@ -1,6 +1,6 @@
 {
-  "name": "split-images",
-  "version": "1.0.4",
+  "name": "split-images-shadow",
+  "version": "1.0.5",
   "description": "",
   "main": "lib/imageSplitter.js",
   "scripts": {
@@ -10,15 +10,15 @@
   "author": "Achilles Moraites",
   "license": "MIT",
   "dependencies": {
-    "jimp": "^0.6.1"
+    "jimp": "^0.16.2"
   },
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cyb3rN4u7/image-splitter.git"
+    "url": "git+https://github.com/chenjihu/image-splitter.git"
   },
   "bugs": {
-    "url": "https://github.com/Cyb3rN4u7/image-splitter/issues"
+    "url": "https://github.com/chenjihu/image-splitter/issues"
   },
-  "homepage": "https://github.com/Cyb3rN4u7/image-splitter#readme"
+  "homepage": "https://github.com/chenjihu/image-splitter#readme"
 }
