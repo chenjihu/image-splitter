@@ -13,7 +13,7 @@ Image paths, urls and buffers can be used, supported image types are jpeg, png, 
 
 ### npm
 
-`npm i split-images --save`
+`npm i split-images-shadow --save`
 
 ### Node versions
 
@@ -36,7 +36,7 @@ Splits the image horizontaly depending of the chunkSize
 
 ```
 const fs = require('fs');
-const { imageToChunks } = require('split-images');
+const { imageToChunks } = require('split-images-shadow');
 
 (async()=> {
 try {
@@ -60,7 +60,7 @@ try {
 
 ```
 const fs = require('fs');
-const { imageToChunks } = require('split-images');
+const { imageToChunks } = require('split-images-shadow');
 
 (async()=> {
 try {
