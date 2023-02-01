@@ -1,18 +1,23 @@
 {
   "name": "split-images-shadow",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "",
   "main": "lib/imageSplitter.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["split image","split","image to chunks","image splitter"],
+  "keywords": [
+    "split image",
+    "split",
+    "image to chunks",
+    "image splitter"
+  ],
   "author": "Jihu Chen",
   "license": "MIT",
   "dependencies": {
-    "jimp": "^0.16.2"
+    "jimp": "^0.16.2",
+    "jpeg-js": "^0.4.4"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chenjihu/image-splitter.git"
